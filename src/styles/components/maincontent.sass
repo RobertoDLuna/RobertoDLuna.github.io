@@ -1,5 +1,5 @@
-@use '../variables'
 @use '../mixins'
+@use '../variables'
 
 #main-content
     background-color: variables.$bg-color
@@ -25,8 +25,8 @@
     p
         color: variables.$text-color-secondary
         margin-bottom: 1rem
-        line-height: 1.4rem
+        line-height: 1.3rem
 
     .btn
-        @include mixins.btn
         align-self: start
+        @include mixins.btn
