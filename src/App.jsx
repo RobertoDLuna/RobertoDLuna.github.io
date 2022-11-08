@@ -1,4 +1,4 @@
-import Siderbar from './components/Siderbar';
+import Sidebar from './components/Sidebar';
 import MainContent from './components/MainContent';
 
 import './styles/components/app.sass';
@@ -7,7 +7,7 @@ function App() {
   return (
     <div id="portfolio">
       <h1>Roberto Luna</h1>
-      <Siderbar />
+      <Sidebar />
       <MainContent />
     </div>
   );
