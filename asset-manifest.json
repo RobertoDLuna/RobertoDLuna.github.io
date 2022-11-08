@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/RobertoDLuna/RobertoDLuna.github.io/static/css/main.9e7a4749.css",
-    "main.js": "/RobertoDLuna/RobertoDLuna.github.io/static/js/main.75b08bd4.js",
-    "static/media/eu.jpg": "/RobertoDLuna/RobertoDLuna.github.io/static/media/eu.5d9a7a51b2c6ade427b7.jpg",
-    "index.html": "/RobertoDLuna/RobertoDLuna.github.io/index.html",
-    "main.9e7a4749.css.map": "/RobertoDLuna/RobertoDLuna.github.io/static/css/main.9e7a4749.css.map",
-    "main.75b08bd4.js.map": "/RobertoDLuna/RobertoDLuna.github.io/static/js/main.75b08bd4.js.map"
+    "main.css": "/RobertoDLuna/portifolio/static/css/main.9e7a4749.css",
+    "main.js": "/RobertoDLuna/portifolio/static/js/main.3c9a11ae.js",
+    "static/media/eu.jpg": "/RobertoDLuna/portifolio/static/media/eu.5d9a7a51b2c6ade427b7.jpg",
+    "index.html": "/RobertoDLuna/portifolio/index.html",
+    "main.9e7a4749.css.map": "/RobertoDLuna/portifolio/static/css/main.9e7a4749.css.map",
+    "main.3c9a11ae.js.map": "/RobertoDLuna/portifolio/static/js/main.3c9a11ae.js.map"
   },
   "entrypoints": [
     "static/css/main.9e7a4749.css",
-    "static/js/main.75b08bd4.js"
+    "static/js/main.3c9a11ae.js"
   ]
 }
