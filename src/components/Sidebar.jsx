@@ -9,13 +9,17 @@ import "../styles/components/sidebar.sass";
 const Sidebar = () => {
   return (
     <aside id="sidebar">
-      <img src={Avatar} alt="Matheus Battisti" />
-      <p className="title">Desenvolvedor Full Stack</p>
-      <SocialNetworksContainer />
-      <InformationContainer />
-      <a href="#" className="btn">
-        Download currículo
-      </a>
+      <div className="div-img">
+      <img src={Avatar} alt="Roberto Luna" />
+      </div>
+      <div className="div-content">
+        <p className="title">Desenvolvedor Full Stack</p>
+        <SocialNetworksContainer />
+        <InformationContainer />
+        <a href="#" className="btn">
+          Download currículo
+        </a>
+      </div>
     </aside>
   );
 };
